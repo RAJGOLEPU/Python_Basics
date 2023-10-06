@@ -5,7 +5,7 @@ Welcome to the Python Foundation repository! This repository serves as a compreh
 ## Table of Contents
 
 1. [Getting Started with Python](#getting-started-with-python)
-2. [Python Basics](#python-basics)
+2. [Python Basics](#fundamentals.ipynb)
 3. [Intermediate Python](#intermediate-python)
 4. [Advanced Python](#advanced-python)
 5. [Python Projects](#python-projects)
