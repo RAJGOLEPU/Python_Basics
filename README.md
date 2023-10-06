@@ -5,7 +5,7 @@ Welcome to the Python Foundation repository! This repository serves as a compreh
 ## Table of Contents
 
 1. [Getting Started with Python](#getting-started-with-python)
-2. [Python Basics](#fundamentals.ipynb)
+2. [Python Basics](#python-basics)
 3. [Intermediate Python](#intermediate-python)
 4. [Advanced Python](#advanced-python)
 5. [Python Projects](#python-projects)
@@ -26,7 +26,7 @@ If you are new to Python, it's essential to start with the basics. Here are some
 
 Once you have Python installed and are familiar with the basics, you can dive into fundamental Python concepts, including:
 
-- [Variables and Data Types](basics/variables_and_data_types.md)
+- [Variables and Data Types](fundamentals.ipynb)
 - [Operators](basics/operators.md)
 - [Control Structures](basics/control_structures.md)
 - [Functions](basics/functions.md)
